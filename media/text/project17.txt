@@ -1,3 +1,62 @@
+https://chestnutandhazel.com/
+
+Mobile:
+
+Performance Score: 52
+    Remove Excess Javascript, I have a lot of ads there, and I think that I have duplicates for the
+    performance analytics from google that may no longer be active.
+
+Accessibility Score: 66
+    Add Iframe titles and Image alt text, I removed those fields to make it easier to manage, but it does have a negative
+    effect on my Accessibility score. So I'll Make those updates as they come along.
+
+Desktop:
+    I've received all error messages for this section of the analytics report. My guess is that I'll have to change
+    things to make them easier to load on the desktop.
+
+
+1. Figure out how to deal with multiple page redirects, which seems to slow down my website quite a bit, I might have to Figure
+out another way of hosting my website rather than through the blogging application, or figuring out another alternative through
+the domain management system.
+
+2. Reduce Unused Javascript. I think that I will remove old web traffic analytics widgets on my website, as well as reduce the
+number of ads my page hosts. The issue of third-party scripts also affects this score.
+
+3. Increase accessibility by reintroducing alt text, iframe titles, and aria attributes for users using assistive technologies.    
+
+
+...
+
+
+https://chestnutandhazel.com/
+
+Mobile: 
+
+Performace Score: 52
+    Remove Excess Javascript, I have a lot of ads there, and I think that I have duplicates for the 
+    perofrmance analytics from google that may not longer be active.
+
+Accessibility Score: 66
+    Add Iframe titles and Image alt text, I removed those fields to make it easier to manage, but it does have a negative
+    effect on my Accessibility score. So I'll Make those updates as they come along.
+
+Desktop:
+    I've recieved all error messages for this section of the anyltics report. My guess is that I'll have to change
+    things to make them easier to load on desktop.
+
+
+1. Figure out how to deal with multiple page redirects, which seems to slow down my website quite a bit, I might have to Figure 
+out another way of hosting my website rather than through the blogging application, or figuring out another alternative through 
+the domain management system.
+
+2. Reduce Unused Javascript. I think that I will remove old web traffic analytics widgets on my website, as well as reduce the 
+number of ads my page hosts. The issue of third-party scripts also effects this score.
+
+3. Increase accessibility by re-introducing alt text, iframe titles, and aria attributes for users using assistive technologies.
+
+
+...
+
 1. Analyze a Website
 Analyze a Website
 Goals
